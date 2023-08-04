@@ -23,6 +23,8 @@ The Cargo Application is a web-based system that allows users to manage and trac
 
 1. Clone the repository or download the ZIP file.
 2. Open the solution file (CargoApp.sln) in Visual Studio.
+3. In the Package Manager Console run the following command **`Update-Package -Reinstall`**
+
 
 ## Database Setup
 
