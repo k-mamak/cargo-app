@@ -39,6 +39,7 @@ The Cargo Application is a web-based system that allows users to manage and trac
 
 - Run the application in Visual Studio.
 - Open your web browser and navigate to https://localhost:44306 to access the Cargo Application.
+- Default username and password is admin.
 
 ## Features
 - __Login:__ Users can log in with the username and password (default username: admin, password: admin).
